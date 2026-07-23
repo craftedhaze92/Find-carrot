@@ -1,7 +1,5 @@
 # Find-carrot
 
-- 제한시간 동안 당근캐기
-- https://dohyunhwang.github.io/Find-carrot/.
-  <br>
+- 제한시간 동안 당근캐기 미니 게임
 
 
